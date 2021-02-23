@@ -2,10 +2,7 @@ package hu.meiit.haladojava.calculator;
 import java.security.PrivateKey;
 import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
 
